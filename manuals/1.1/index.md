@@ -34,7 +34,9 @@ title: Foreman 1.1 Manual
 {%include manuals/1.1/3.5.2_configuration_options.md %}
 ### 3.5.3 Database Setup
 {%include manuals/1.1/3.5.3_database_setup.md %}
-### <a name="PuppetReports">3.5.4 Puppet Reports</a>
+<a name="Puppet_Reports">
+### 3.5.4 Puppet Reports
+</a>
 {%include manuals/1.1/3.5.4_puppet_reports.md %}
 ### 3.5.5 Importing Facts
 {%include manuals/1.1/3.5.5_importing_facts.md %}
