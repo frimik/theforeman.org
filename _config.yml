@@ -6,7 +6,7 @@ description: Through deep integration with configuration management, DHCP, DNS, 
 
 production_url : http://theforeman.org
 url: http://theforeman.org
-baseurl: /
+baseurl: /theforeman.org/
 
 safe:        false
 auto:        false
